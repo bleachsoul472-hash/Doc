@@ -1,8 +1,0 @@
-{
-  "name": "ms3dh-tripe",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "mongodb": "^6.18.0"
-  }
-}
